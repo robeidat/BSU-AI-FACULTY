@@ -1,1 +1,1 @@
-Sitemap: https://gabors-data-analysis.com/ai-course/sitemap.xml
+Sitemap: https://robeidat.github.io/bsu-ai-faculty/sitemap.xml
