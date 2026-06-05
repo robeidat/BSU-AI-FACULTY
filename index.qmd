@@ -9,7 +9,7 @@ date: "2026-06-01"
 
 ## What's this
 
-A course for students who already know **data analysis / econometrics** and want to seriously rework their practice around AI. The aim is not "tips and tricks": it is to spend a semester **building real things with AI as a teammate**, and to think honestly about where it helps, where it lies, and where it lets you do work you genuinely could not do alone.
+A course for faculty and students who already know **data analysis / econometrics** and want to seriously rework their practice around AI. The aim is not "tips and tricks": it is to spend a semester **building real things with AI as a teammate**, and to think honestly about where it helps, where it lies, and where it lets you do work you genuinely could not do alone.
 
 As AI becomes more and more powerful, it is also important to provide a platform to **discuss human agency in data analysis**. A core role of the instructor is to lead that discussion across the term — what we delegate, what we keep, and how we stay accountable for the result.
 
@@ -148,10 +148,6 @@ A three-session team project on **manager changes in football**, deliberately sc
 **Session 3 — Difference-in-Differences + final presentation.** Modern causal econometrics: staggered DiD, event-study, parallel-trends diagnostics, heterogeneity by manager / team / expectation. Honest presentation of what the data can and cannot say. — [Content](project03/)
 
 
-## Knowledge Base
-
-Reusable reference pages on APIs, tools setup, project design, and more — see the [Knowledge Base](navbar/resources.html). For further reading beyond the course, check the [beyond](da-knowledge/beyond.html) page.
-
 ---
 
 ## Rights and acknowledgement
@@ -160,21 +156,6 @@ Reusable reference pages on APIs, tools setup, project design, and more — see 
 
 **Attribution**: Békés, Gábor: "Data Analysis with AI: a comprehensive course", available at [gabors-data-analysis.com/ai-course/](https://gabors-data-analysis.com/ai-course/), v2.2. 2026-05-01.
 
-You can fork it from the Github Repo.  [github.com/gabors-data-analysis/da-w-ai/](https://github.com/gabors-data-analysis/da-w-ai/)
+You can fork it from the Github Repo.  [https://robeidat.github.io/BSU-AI-FACULTY/]
 
 **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) -- share, attribute, non-commercial (contact me for corporate gigs)
-
-**Textbook** Please check out the [textbook](https://gabors-data-analysis.com/getting-started) behind all this, buy it if you can. If interested teaching contact the [Cambridge UP](https://www.cambridge.org/highereducation/books/data-analysis-for-business-economics-and-policy/D67A1B0B56176D6D6A92E27F3F82AA20#overview) or me. 
-
-## Thanks
-
-**Thanks:** Developed mostly by [me, Gábor Békés](https://sites.google.com/site/bekesg/) Thanks a million to the two wonderful human RAs, [Ms Zsuzsanna Vadle](https://bsky.app/profile/zsuzsannavadle.bsky.social) and [Mr Kenneth Colombe](https://bsky.app/profile/kcolombe24.bsky.social), both Phd students. Also thanks to [Adam Víg](https://www.linkedin.com/in/adam-vig-250729196/), long term collaborator now at Google. Thanks to Claude and ChatGPT to craft pages, improve consistency, create the simulated dataset. They helped create the slideshows and educated *me* on a bunch of topics like reinforcement learning or NLP. This is a beautiful example of collaboration with great young people while heavily benefiting from advanced AI. Thanks for [Quarto](https://quarto.org/) -- it was all drafted and written in Quarto and Rstudio by Posit. Plus all the love from Github. 
-
-Thanks for CEU's teaching grant that allowed me pay people and AI. 
-
-
-## Questions and suggestions
-
-This material is based my course at CEU in Vienna, Austria. Here is the [Github repo](https://github.com/gabors-data-analysis/da-w-ai)
-
-If you have questions or suggestions or interested to learn more, just [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLSev0oaR2s71hvFTZjhTwCuCPL00ljYWAIjl0hoZQLTn_oG3KQ/viewform?usp=header).
